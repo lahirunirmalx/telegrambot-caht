@@ -1,5 +1,5 @@
 {
-  "name": "bot",
+  "name": "telegrambot",
   "version": "1.0.1",
   "description": "",
   "main": "bot.js",
@@ -8,7 +8,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "faunadb": "^4.7.1",
     "telegraf": "^4.11.2"
